@@ -23,8 +23,6 @@ EXAMPLES:
 """
 
 def convert(number):
-    number = str(number)
-
     drops = {
         3: 'Pling',
         5: 'Plang',
